@@ -18379,6 +18379,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\xampp\\htdocs\\MyRazorApp\\Pages\\Categories.cshtml",
+      "TargetPath": "Pages\\Categories.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\xampp\\htdocs\\MyRazorApp\\Pages\\Shared\\_Layout.cshtml",
       "TargetPath": "Pages\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
