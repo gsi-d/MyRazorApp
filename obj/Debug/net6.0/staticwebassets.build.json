@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "a9diEbl8kcunmyPIC4bxwxQpnQX+w34CbfH1gXmtJJM=",
+  "Source": "MyRazorApp",
+  "BasePath": "_content/MyRazorApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MyRazorApp\\wwwroot",
+      "Source": "MyRazorApp",
+      "ContentRoot": "C:\\xampp\\htdocs\\MyRazorApp\\wwwroot\\",
+      "BasePath": "_content/MyRazorApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
